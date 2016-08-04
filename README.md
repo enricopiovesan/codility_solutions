@@ -1,4 +1,4 @@
-# Codility solutions
+# Codility solutions 100%
 
 One Paragraph of project description goes here
 
@@ -14,7 +14,7 @@ end
 ```
 
 
-## Tree Height Ruby
+## Tree Height Ruby 100%
 ```ruby
 def solution(tree)
 
@@ -45,7 +45,7 @@ def traverse_path(tree, length)
 end
 ```
 
-## Tree Height Swift
+## Tree Height Swift 100%
 ```swift
 import types
 
