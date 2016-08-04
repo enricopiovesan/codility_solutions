@@ -12,7 +12,8 @@ def traverse_path(tree, length)
 	
 	return length if(!tree.l && ! tree.r)
 	
-	length_l,length_r = 0
+	length_l = 0
+	length_r = 0
 		
 	if(tree.l)
 		length_l = traverse_path(tree.l, length + 1)
