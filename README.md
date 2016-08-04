@@ -14,7 +14,7 @@ end
 ```
 
 
-## TreeHeight
+## Tree Height
 ```ruby
 def solution(tree)
 
