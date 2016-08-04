@@ -1,7 +1,7 @@
 def solution(tree)
   
 	if !tree.l && !tree.r
-		return -1
+		return 0
 	else
 		return traverse_path(tree, 0)
 	end
