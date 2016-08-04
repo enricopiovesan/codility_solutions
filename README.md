@@ -1,8 +1,8 @@
-# Codility solutions 100%
+# Codility solutions
 
 One Paragraph of project description goes here
 
-## Inverse String Ruby
+## Inverse String Ruby 100%
 ```ruby
 def solution(s)
   
