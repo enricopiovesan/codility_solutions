@@ -13,8 +13,9 @@ def solution(s)
 end
 ```
 
-
 ## Tree Height Ruby 100%
+[The Problem](https://codility.com/programmers/task/tree_height/)
+
 ```ruby
 def solution(tree)
 
