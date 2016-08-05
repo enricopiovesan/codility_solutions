@@ -1,8 +1,9 @@
 # Codility solutions
 
-One Paragraph of project description goes here
 
 ## Inverse String Ruby 100%
+[The Problem](https://codility.com/programmers/task/str_symmetry_point/)
+
 ```ruby
 def solution(s)
   
